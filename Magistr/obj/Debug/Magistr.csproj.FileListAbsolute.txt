@@ -1,0 +1,11 @@
+C:\Users\vadim\source\repos\Magistr\Magistr\bin\Debug\Magistr.exe.config
+C:\Users\vadim\source\repos\Magistr\Magistr\bin\Debug\Magistr.exe
+C:\Users\vadim\source\repos\Magistr\Magistr\bin\Debug\Magistr.pdb
+C:\Users\vadim\source\repos\Magistr\Magistr\obj\Debug\Magistr.csprojAssemblyReference.cache
+C:\Users\vadim\source\repos\Magistr\Magistr\obj\Debug\Magistr.csproj.CoreCompileInputs.cache
+C:\Users\vadim\source\repos\Magistr\Magistr\obj\Debug\Magistr.exe
+C:\Users\vadim\source\repos\Magistr\Magistr\obj\Debug\Magistr.pdb
+C:\Users\vadim\source\repos\Magistr\Magistr\obj\Debug\Magistr.csproj.CopyComplete
+C:\Users\vadim\source\repos\Magistr\Magistr\bin\Debug\NLog.dll
+C:\Users\vadim\source\repos\Magistr\Magistr\bin\Debug\NLog.xml
+C:\Users\vadim\source\repos\Magistr\Magistr\bin\Debug\NLog.config
